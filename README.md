@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hola , soy Miguel A. Ramos Alarcón </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 align="center"><b>Freelancer developer and creative designer</b></h2>
+<h3 align="center "><b>Freelancer developer and creative designer</b></h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@miguelalonsoramosalarcon" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@miguelalonsoramosalarcon"  /></a>
@@ -11,18 +11,30 @@
   </p>
 <br>
 
-Acerca de mí:
+<h2>Sobre mí 😃</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left">
+🎓 TÉCNICO EN COMPUTACIÓN E INFORMÁTICA
 
+🎥 CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
+💻 Más de 10 años de experiencia en el proceso de desarrollo de páginas webs y recien iniciándome en el mundo del desarrollo de software 
+
+📝 Roles en el ámbito: desarrollador... líder... creativo...  emprendedor... programador freelance...
+
+📫 Contacto: **mramos20681@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
+<br>
 <!--
 -->
 
