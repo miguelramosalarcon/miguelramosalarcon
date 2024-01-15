@@ -20,9 +20,8 @@
 
 👨‍💻 Como todo técnico pues inicie mis primeros trabajos como Soporte Técnico, luego estudie 🧑‍🎨	Diseño Gráfico lo que me permitió ampliar mis servicios profesionales, posteriormente estudié 🎬 edición de video y por último he estudiado y desarrollado habilidades de programación de escritorio y web. A la fecha cuento con conocimientos sólidos en programación Full Stack y sigo 💻 estudiando y 💪capacitándome en este increíble mundo de la programación. 2️⃣0️⃣ años de experiencia profesional - :peru:	.
 
-👨‍👩‍👧 ♥️ Casado con una hermosa esposa, fruto del cual tenemos una bella hija. Por ellas y por mí sigo esforzandome cada día, no solo mejorando como profesional sino como esposo, padre, hijo, hermano, como una persona de bien, que tanto necesita nuestro mundo.
+👨‍👩‍👧 ♥️ Casado con una hermosa mujer, fruto del cual tenemos una bella hija. Por ellas y por mí sigo esforzándome cada día, no solo mejorando como profesional sino como esposo, padre, hijo, hermano, como una persona de bien, que tanto necesita nuestro mundo.
 
-📝 Roles en el ámbito: desarrollador... líder... creativo...  emprendedor... programador freelance...
 
 📫 Contacto: **mramos20681@gmail.com**
 <!--Intro end-->
