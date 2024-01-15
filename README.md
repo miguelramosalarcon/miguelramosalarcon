@@ -13,6 +13,11 @@ Acerca de mí:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,c#,html,css,bootstrap,js)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 -->
 
