@@ -18,7 +18,10 @@
 
 🎥 CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
-💻 Más de 10 años de experiencia en el proceso de desarrollo de páginas webs y recien iniciándome en el mundo del desarrollo de software 
+💻 👨‍💻 Como todo técnico pues inicie mis primeros trabajos como Soporte Técnico, luego estudie Diseño Gráfico lo que me permitió ampliar mis servicios profesionales, posteriormente estudié edición de video y por último he desarrollado habilidades de programación de escritorio y web. A la fecha cuento con conocimientos sólidos en programación Full Stack y sigo estudiando y capacitándome en este lindo mundo de la programación.
+
+
+
 
 📝 Roles en el ámbito: desarrollador... líder... creativo...  emprendedor... programador freelance...
 
