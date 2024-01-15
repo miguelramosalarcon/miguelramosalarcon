@@ -14,11 +14,11 @@
 <h2>Sobre mí 😃</h2>
 
 <p align="left">
-🎓 TÉCNICO EN COMPUTACIÓN E INFORMÁTICA
+🎓 TÉCNICO EN COMPUTACIÓN E INFORMÁTICA, siendo mi alma máter El IESTP "Argentina" de Lima, Perú. 🏆Ganador dos años consecutivos de la Semana de Innovación del Instituto Argentina en el área de Programación. 🥇Primer puesto de la promoción de Computación e Informática "Tech Savvy 2023".
 
-🎥 CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia.
 
-👨‍💻 Como todo técnico pues inicie mis primeros trabajos como Soporte Técnico, luego estudie 🧑‍🎨	Diseño Gráfico lo que me permitió ampliar mis servicios profesionales, posteriormente estudié edición de video y por último he desarrollado habilidades de programación de escritorio y web. A la fecha cuento con conocimientos sólidos en programación Full Stack y sigo 💻 estudiando y capacitándome en este lindo mundo de la programación.
+👨‍💻 Como todo técnico pues inicie mis primeros trabajos como Soporte Técnico, luego estudie 🧑‍🎨	Diseño Gráfico lo que me permitió ampliar mis servicios profesionales, posteriormente estudié 🎬 edición de video y por último he estudiado y desarrollado habilidades de programación de escritorio y web. A la fecha cuento con conocimientos sólidos en programación Full Stack y sigo 💻 estudiando y capacitándome en este lindo mundo de la programación. 2️⃣0️⃣ años de experiencia profesional - :peru:	.
 
 👨‍👩‍👧 Casado, con una hermosa esposa e hija. Por ellas y por mí sigo esforzandome cada día, no solo mejorando como profesional sino como esposo, padre, hijo, hermano, como una persona de bien, que tanto necesita nuestro mundo.
 
