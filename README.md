@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hola , soy Miguel A. Ramos Alarcón </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center "><b>Freelancer developer and creative designer</b></h3>
+<h3 align="center "><b>Full Stack Developer and Creative Designer</b></h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@miguelalonsoramosalarcon" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@miguelalonsoramosalarcon"  /></a>
