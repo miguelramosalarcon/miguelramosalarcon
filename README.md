@@ -38,3 +38,4 @@
 
 <!--Stats end-->
 
+![miguelramosalarcon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelramosalarcon&theme=radical&hide_border=false)
