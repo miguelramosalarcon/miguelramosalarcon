@@ -35,7 +35,3 @@
   </a>
 </p>
 <br>
-
-<!--Stats end-->
-
-[![MiguelRamosAlarcon GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelramosalarcon)](https://github.com/anuraghazra/github-readme-stats)
