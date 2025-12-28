@@ -54,10 +54,12 @@ const miguel = {
     logros: {
         primerPuesto: "Promoción Tech Savvy 2023",
         ganador: "Semana de Innovación IESTP Argentina (2 años consecutivos)",
-        proyectosFreelance: "+100 proyectos web"
+        proyectosFreelance: "+100 proyectos web",
+        automatizaciones: "Zuari Stock Sync con AppScript"
     },
     
-    filosofia: "Comprometido con la mejora continua y la innovación 🚀"
+    filosofia: "Comprometido con la mejora continua y la innovación 🚀",
+    frase: "Transformando ideas en experiencias digitales excepcionales"
 };
 ```
 
@@ -79,6 +81,7 @@ const miguel = {
 - ✅ PageSpeed Score >90 móvil/desktop
 - ✅ Módulo Python para Odoo
 - ✅ Sistema GPS Traccar implementado
+- ✅ Shortcodes para wordpress
 
 </td>
 <td width="50%">
@@ -93,6 +96,7 @@ const miguel = {
 - ✅ Análisis estadístico con SPSS
 - ✅ Mantenimiento de equipos
 - ✅ Diseño para redes sociales
+- ✅ Landing page elecciones.sensor.pe (2026)
 
 </td>
 </tr>
@@ -200,8 +204,8 @@ const miguel = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelramosalarcon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelramosalarcon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelramosalarcon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelramosalarcon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/> -->
 
 </div>
 
